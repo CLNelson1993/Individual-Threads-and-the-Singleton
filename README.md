@@ -1,7 +1,7 @@
 # Individual-Threads-and-the-Singleton
 
 # How to use
-- methods run() and main(String[] args) can be found in SingletonThread.java
+- methods run() and main(String[] args) can be found in SingletonThread.java within the src directory.
 - run(): Accesses LazyInitializedSingleton, then prints out the hash code of the thread instance.
 - main(String[] args): Using a for loop, create 3 new threads.
 
