@@ -1,6 +1,5 @@
 public class SingletonThread extends Thread {
 
-    private Thread t;
     private String threadName;
 
     SingletonThread(String name) {
